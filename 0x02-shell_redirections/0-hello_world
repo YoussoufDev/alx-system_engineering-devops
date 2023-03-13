@@ -1,4 +1,4 @@
 #!/bin/bash
 Hello, World
-0-hello_world | cat -e
+hello_world | cat -e
 Hello, World$
